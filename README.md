@@ -14,4 +14,4 @@
 * Built a client facing API using FastAPI and tested using POSTMAN.
 * Predicted the disease type with accuracy of 97.66%. 
 
-![](https://github.com/Saurabh23198/Saurabh_Portfolio/blob/main/images/2%20SS.PNG)
+![](/images/2%20SS.PNG)
