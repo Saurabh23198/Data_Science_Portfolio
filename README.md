@@ -13,5 +13,4 @@
 * Used tensorflow library, data augmentation and average pooling to reduce dimensionality and better computation.
 * Built a client facing API using FastAPI and tested using POSTMAN.
 * Predicted the disease type with accuracy of 97.66%. 
-
 ![](/images/2%20SS.PNG)
