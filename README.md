@@ -5,6 +5,7 @@
 * Determined the important features using ExtraTreeRegressor ensemble technique.
 * Used Randomised Search CV algorithm for modelling.
 * Built a client facing API using FastAPI.
+
 ![](/images/PortfolioSS.PNG)
 
 # [Project 2 : Image classification using CNN](https://github.com/Saurabh23198/Image-Classification-Potato-Diseased-Plants)
