@@ -5,3 +5,4 @@
 * Determined the important features using ExtraTreeRegressor ensemble technique.
 * Used Randomised Search CV algorithm for modelling.
 * Built a client facing API using FastAPI.
+![](https://github.com/Saurabh23198/Saurabh_Portfolio/blob/main/images/PortfolioSS.PNG)
