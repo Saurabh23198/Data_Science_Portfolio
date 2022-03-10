@@ -9,4 +9,9 @@
 ![](/images/PortfolioSS.PNG)
 
 # [Project 2 : Image classification using CNN](https://github.com/Saurabh23198/Image-Classification-Potato-Diseased-Plants)
-* 
+* Developed a model using Convolutional Neural Network to accurately identify the diseases present in potato plant.
+* Used tensorflow library, data augmentation and average pooling to reduce dimensionality and better computation.
+* Built a client facing API using FastAPI and tested using POSTMAN.
+* Predicted the disease type with accuracy of 97.66%. 
+
+![](
