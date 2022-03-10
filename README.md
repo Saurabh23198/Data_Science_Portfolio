@@ -6,7 +6,7 @@
 * Used Randomised Search CV algorithm for modelling.
 * Built a client facing API using FastAPI.
 
-![](/images/PortfolioSS.PNG)
+![](/images/Project_1.PNG)
 
 # [Project 2 : Image classification using CNN](https://github.com/Saurabh23198/Image-Classification-Potato-Diseased-Plants)
 * Developed a model using Convolutional Neural Network to accurately identify the diseases present in potato plant.
