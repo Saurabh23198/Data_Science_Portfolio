@@ -5,7 +5,7 @@
 * Connected MySQL server to the Tableau.
 * Built an automated Dashboard providing quick and latest Sales and Revenue insights using Tableau.
 
-![/images/Project_3.PNG]
+![](/images/Project_3.PNG)
 
 # [Project 2 : Predictive Analysis: Overview](https://github.com/Saurabh23198/Car-Price-Prediction)
 * Created a tool that effectively determine the worthiness of the car using a variety of features.
